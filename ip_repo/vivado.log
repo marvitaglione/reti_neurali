@@ -1,0 +1,77 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Feb 20 19:49:24 2023
+# Process ID: 2180
+# Current directory: D:/Universita/tesi magistrale/reti_neurali/ip_repo
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7440 D:\Universita\tesi magistrale\reti_neurali\ip_repo\edit_rete_mnist_ip_v1_0.xpr
+# Log file: D:/Universita/tesi magistrale/reti_neurali/ip_repo/vivado.log
+# Journal file: D:/Universita/tesi magistrale/reti_neurali/ip_repo\vivado.jou
+# Running On: DESKTOP-RQNE9R3, OS: Windows, CPU Frequency: 3093 MHz, CPU Physical cores: 2, Host memory: 8571 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Universita/tesi magistrale/reti_neurali/ip_repo/edit_rete_mnist_ip_v1_0.xpr}
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/1.0/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.0/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'.
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk120_es:part0:1.2 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120/es/1.2/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk120_es_revb:part0:1.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk120_revb/es/1.0/board.xml as part xcvp1202-vsva2785-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vpk180_es:part0:1.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vpk180/es/1.0/board.xml as part xcvp1802-lsvc4072-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'.
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'.
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670:part0:2.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670/2.0/board.xml as part xczu67dr-fsve1156-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at D:/Programmi/Xilinx/Vivado/2022.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/edit_rete_mnist_ip_v1_0.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+WARNING: [Board 49-151] The current board 'digilentinc.com::zybo-z7-10:1.0' is from a local repo. The vivado install has a corresponding board with version greater than or equal to the local repo board. Please use boards from vivado install to avoid any upgrade/migrate issues
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0'.
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+WARNING: [IP_Flow 19-2207] Repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0' already exists; ignoring attempt to add it again.
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+WARNING: [IP_Flow 19-2207] Repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0' already exists; ignoring attempt to add it again.
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Programmi/Xilinx/Vivado/2022.2/data/ip'.
+open_project: Time (s): cpu = 00:00:43 ; elapsed = 00:00:21 . Memory (MB): peak = 1745.219 ; gain = 351.586
+close_project
+INFO: [filemgmt 56-326] User Interrupt. Could not getCurrentGraph()
+INFO: [filemgmt 56-326] User Interrupt. Could not getCurrentGraph()
+open_project {D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.xpr}
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Programmi/Xilinx/Vivado/2022.2/data/ip'.
+CRITICAL WARNING: [Common 17-1649] The Vivado message database 'D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.runs/synth_1/vivado.pb' contains 210662 messages. Restoring all messages from this message database will impact Vivado performance, so only WARNING, CRITICAL WARNING, and ERROR messages will be restored. To restore all messages from this file use the tcl command 'set_param messaging.loadPbLimit 210663' and re-open the project.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:06 . Memory (MB): peak = 1916.578 ; gain = 155.426
+close_project
+INFO: [filemgmt 56-326] User Interrupt. Could not getCurrentGraph()
+INFO: [filemgmt 56-326] User Interrupt. Could not getCurrentGraph()
+open_project {D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.xpr}
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'd:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_1_0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Programmi/Xilinx/Vivado/2022.2/data/ip'.
+CRITICAL WARNING: [Common 17-1649] The Vivado message database 'D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.runs/synth_1/vivado.pb' contains 210662 messages. Restoring all messages from this message database will impact Vivado performance, so only WARNING, CRITICAL WARNING, and ERROR messages will be restored. To restore all messages from this file use the tcl command 'set_param messaging.loadPbLimit 210663' and re-open the project.
+update_compile_order -fileset sources_1
+reset_run synth_1
+INFO: [Project 1-1161] Replacing file D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.srcs/utils_1/imports/synth_1/rete_mnist.dcp with file D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.runs/synth_1/rete_mnist.dcp
+launch_runs impl_1 -jobs 4
+[Mon Feb 20 19:52:40 2023] Launched synth_1...
+Run output will be captured here: D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.runs/synth_1/runme.log
+[Mon Feb 20 19:52:41 2023] Launched impl_1...
+Run output will be captured here: D:/Universita/tesi magistrale/reti_neurali/vhdl_rete_mnist/vhdl_rete_mnist.runs/impl_1/runme.log

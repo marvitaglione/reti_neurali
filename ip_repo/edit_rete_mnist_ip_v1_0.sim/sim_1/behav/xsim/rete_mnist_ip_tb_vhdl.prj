@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../rete_mnist_ip_1_0/src/batchNorm.vhd" \
+"../../../../rete_mnist_ip_1_0/src/perceptron.vhd" \
+"../../../../rete_mnist_ip_1_0/src/layer.vhd" \
+"../../../../rete_mnist_ip_1_0/src/rete_mnist.vhd" \
+"../../../../rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0.vhd" \
+"../../../../rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0_S_mnist_full_AXI.vhd" \
+"../../../../rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0_S_mnist_lite_AXI.vhd" \
+"../../../../rete_mnist_ip_1_0/src/rete_mnist_ip_tb.vhd" \
+
+# Do not sort compile order
+nosort

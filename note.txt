@@ -1,0 +1,27 @@
+mnist_binarized_model
+	- accuracy: 88.82%
+
+mnist_pruned_model (64444)
+	- accuracy: 84.36%
+	- pruning: 81.67%
+	- occupancy: 43.93% (101224 LUTs) 
+	- delay 42ns
+
+mnist_pruned_84443_model
+	- accuracy: 86.74%
+	- pruning: 91.804%
+	- occupancy: 37.82% (87146 LUTs)
+
+mnist_pruned_84444_model
+	- accuracy: 84.65%
+	- pruning: 91.671%
+
+mnist_pruned_84434_model
+	- accuracy: 85.6% 
+	- pruning: 91.12%
+
+
+mnist_pruned_84443_model con adder
+	- accuracy: 86.74%
+	- pruning: 91.804%
+	- occupancy: 21.92% (50506 LUTs) 

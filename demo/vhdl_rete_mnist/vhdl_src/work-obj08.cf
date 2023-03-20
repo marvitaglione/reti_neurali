@@ -1,0 +1,51 @@
+v 4
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT2.vhd" "4c78eab7f8f422ec781fae22f8825897f8b4df3c" "20230111122040.025":
+  entity lut2 at 26( 1052) + 0 on 268;
+  architecture lut2_v of lut2 at 46( 1324) + 0 on 269;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT4.vhd" "e1274008740e0e778872be9678fff0c9f5224404" "20230111122038.519":
+  entity lut4 at 24( 939) + 0 on 264;
+  architecture lut4_v of lut4 at 46( 1262) + 0 on 265;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT6.vhd" "bf7e64d946c54adb0840ee31c1ef20203a7cae82" "20230111122036.919":
+  entity lut6 at 24( 940) + 0 on 260;
+  architecture lut6_v of lut6 at 48( 1324) + 0 on 261;
+file . "rete_mnist_tb.vhd" "fde30284743fde26edf2d4db2569c54a7989933a" "20230111122042.214":
+  entity rete_mnist_tb at 22( 489) + 0 on 287;
+  architecture behavioral of rete_mnist_tb at 42( 968) + 0 on 288;
+file . "popcountTile.vhd" "03faaf297a9da90c1ec18af10657478f43def103" "20230111122042.141":
+  entity popcounttile at 22( 463) + 0 on 283;
+  architecture behavioral of popcounttile at 41( 926) + 0 on 284;
+file . "layer.vhd" "763389daed0eb5198aaf688e61bb60ad1a768b28" "20230111122042.049":
+  entity layer at 22( 490) + 0 on 275;
+  architecture layer_1 of layer at 41( 957) + 0 on 276;
+  architecture layer_2 of layer at 5180( 479702) + 0 on 277;
+  architecture layer_3 of layer at 9867( 712896) + 0 on 278;
+  architecture layer_4 of layer at 12794( 841279) + 0 on 279;
+  architecture layer_5 of layer at 14721( 915927) + 0 on 280;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/unisim_retarget_VCOMP.vhd" "2f31f0fe7adaefe8cf1864bb020c242b0efbf3d7" "20221204121344.536":
+  package vcomponents at 10( 345) + 0 on 14;
+file . "batchNorm.vhd" "c872c47c634cd61acace766ab0f4ce597d6c4b9f" "20230111122034.203":
+  entity batchnorm at 22( 485) + 0 on 257;
+  architecture positivebatchnorm of batchnorm at 46( 1154) + 0 on 258;
+  architecture negativebatchnorm of batchnorm at 66( 1736) + 0 on 259;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/unisim_VPKG.vhd" "e9e84cf6bdef4285759cfbf1d4627155d3e94517" "20221204121344.647":
+  package vpkg at 42( 2484) + 0 on 15 body;
+  package body vpkg at 759( 27303) + 0 on 16;
+file . "perceptron.vhd" "c3a935ea26ed696c8d9cf96e8e0f3838dbcb1468" "20230111122040.805":
+  entity perceptron at 22( 487) + 0 on 272;
+  architecture behavioral of perceptron at 49( 1238) + 0 on 273;
+  architecture lut6 of perceptron at 115( 2808) + 0 on 274;
+file . "popcount.vhd" "82b6822b9fc60ea133df77ec2d1e37d12258f79d" "20230111122042.105":
+  entity popcount at 22( 463) + 0 on 281;
+  architecture behavioral of popcount at 42( 942) + 0 on 282;
+file . "rete_mnist.vhd" "9bcc3c45db0e4f09c5415851567b959d7317d677" "20230111122042.182":
+  entity rete_mnist at 22( 489) + 0 on 285;
+  architecture behavioral of rete_mnist at 42( 1008) + 0 on 286;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT5.vhd" "71c82f42ce0b67eb29cd6c15a1956b688029aab1" "20230111122037.772":
+  entity lut5 at 25( 999) + 0 on 262;
+  architecture lut5_v of lut5 at 48( 1350) + 0 on 263;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT3.vhd" "d35bf42b8c52266d09e042115103c4eaf779de54" "20230111122039.266":
+  entity lut3 at 24( 939) + 0 on 266;
+  architecture lut3_v of lut3 at 45( 1236) + 0 on 267;
+file / "D:/Programmi/Xilinx/Vivado/2022.2/data/vhdl/src/unisims/primitive/LUT1.vhd" "9de6272bc1d655a211f9c8d192dd8d95cd14a85c" "20230111122040.078":
+  entity lut1 at 21( 798) + 0 on 270;
+  architecture lut1_v of lut1 at 36( 980) + 0 on 271;

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Dec 29 13:15:02 2022
+# Process ID: 21664
+# Current directory: D:/Universita/tesi magistrale/reti_neurali/ip_repo
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17192 D:\Universita\tesi magistrale\reti_neurali\ip_repo\edit_rete_mnist_ip_v1_0.xpr
+# Log file: D:/Universita/tesi magistrale/reti_neurali/ip_repo/vivado.log
+# Journal file: D:/Universita/tesi magistrale/reti_neurali/ip_repo\vivado.jou
+# Running On: DESKTOP-RQNE9R3, OS: Windows, CPU Frequency: 3093 MHz, CPU Physical cores: 2, Host memory: 8571 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Universita/tesi magistrale/reti_neurali/ip_repo/edit_rete_mnist_ip_v1_0.xpr}
+update_compile_order -fileset sources_1
+ipx::open_ipxact_file {D:\Universita\tesi magistrale\reti_neurali\ip_repo\rete_mnist_ip_1_0\component.xml}
+ipx::merge_project_changes hdl_parameters [ipx::current_core]
+set_property core_revision 8 [ipx::current_core]
+ipx::create_xgui_files [ipx::current_core]
+ipx::update_checksums [ipx::current_core]
+ipx::check_integrity [ipx::current_core]
+ipx::save_core [ipx::current_core]
+update_ip_catalog -rebuild -repo_path {d:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0}
+close_project

@@ -1,0 +1,8 @@
+
+*.gz
+.vscode/
+data/
+*.dcp
+vhdl_rete_mnist/vhdl_rete_mnist.runs/
+vhdl_rete_mnist/vhdl_rete_mnist.sim/
+vhdl_rete_zybo/

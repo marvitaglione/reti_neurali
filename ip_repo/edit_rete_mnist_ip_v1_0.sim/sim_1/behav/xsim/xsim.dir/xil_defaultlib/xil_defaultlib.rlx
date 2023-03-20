@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0.vhd,1671453092,vhdl,,,,rete_mnist_ip_v1_0,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0_S_mnist_full_AXI.vhd,1671452759,vhdl,,,,rete_mnist_ip_v1_0_s_mnist_full_axi,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/hdl/rete_mnist_ip_v1_0_S_mnist_lite_AXI.vhd,1671452921,vhdl,,,,rete_mnist_ip_v1_0_s_mnist_lite_axi,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/batchNorm.vhd,1669808779,vhdl,D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/perceptron.vhd,,,batchnorm,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/layer.vhd,1671451291,vhdl,D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/rete_mnist.vhd,,,layer,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/perceptron.vhd,1670932160,vhdl,D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/layer.vhd,,,perceptron,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/rete_mnist.vhd,1671451291,vhdl,,,,rete_mnist,,,,,,,,
+D:/Universita/tesi magistrale/reti_neurali/ip_repo/rete_mnist_ip_1_0/src/rete_mnist_ip_tb.vhd,1671051025,vhdl,,,,rete_mnist_ip_tb,,,,,,,,
